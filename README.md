@@ -29,3 +29,10 @@ Or on Windows:
 ```Bash
 py bank_ussd.py
 ```
+
+## Version 2 (bank_ussd2.py)
+An improved version of the app using:
+- Functions (def) to organise the code
+- A show_menu() function to display the menu
+- Separate functions for each banking operation
+- Cleaner and more structured code
